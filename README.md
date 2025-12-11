@@ -87,10 +87,18 @@ Each day includes deep explanations, hands-on coding, and system-level understan
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=JohnSunny21&show_icons=true&theme=tokyonight" />
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnSunny21&theme=tokyonight" />
+
+</div> -->
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=JohnSunny21&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
+<img height="160" src="https://streak-stats.demolab.com/?user=JohnSunny21&theme=tokyonight" />
 
 </div>
 
