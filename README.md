@@ -1,142 +1,111 @@
 <div align="center">
 
-# 👋 Hi, I'm John Sunny  
-### Software Engineer | AI Engineer in Training | 6-Month Transformation Journey 🚀  
-I believe in **deep understanding**, **daily consistency**, and building things the right way.
+# 👋 Hi, I'm Sunny John 
+### Backend Software Engineer | System Design–Focused | AI Engineering (In Progress)
+
+I build **production-grade backend systems** with a strong focus on  
+**correctness, security, performance, and clean architecture**.
 
 ---
 
-<img src="https://img.shields.io/badge/Java-17-orange" />
-<img src="https://img.shields.io/badge/Spring%20Boot-Backend-brightgreen" />
-<img src="https://img.shields.io/badge/Python-AI-blue" />
-<img src="https://img.shields.io/badge/SQL-Database-purple" />
-<img src="https://img.shields.io/badge/GitHub-Active-black" />
-<img src="https://img.shields.io/github/stars/JohnSunny21?style=social" />
+<img src="https://img.shields.io/badge/Java-17-orange?logo=java" />
+<img src="https://img.shields.io/badge/Spring%20Boot-Backend-brightgreen?logo=springboot" />
+<img src="https://img.shields.io/badge/Python-Programming-blue?logo=python" />
+<img src="https://img.shields.io/badge/SQL-Relational-purple?logo=postgresql" />
+<img src="https://img.shields.io/badge/System%20Design-Strong-informational" />
+<img src="https://komarev.com/ghpvc/?username=JohnSunny21&label=Profile%20Views&color=blue&style=flat" />
 
 </div>
 
 ---
 
-## 🚀 About Me
-I'm a **Software Engineer** currently undergoing a self-driven  
-**6-month AI Engineer Transformation Program** — structured, disciplined, and documented publicly.
+## 🧑‍💻 About Me
 
-I’m not just learning syntax.  
-I’m learning:
+I’m a **Backend Software Engineer** with ~2 years of professional experience,  
+currently focused on **deepening my backend & system design expertise** while expanding into **AI engineering**.
 
-- **Deep system-level engineering**
-- **Backend development with Java & Spring Boot**
-- **Python for AI/ML**
-- **Clean architecture principles**
-- **Data structures & algorithms**
-- **Real-world project building**
-- **Professional Git & documentation practices**
+My learning style is:
+- Build first
+- Understand internals
+- Design for scale
+- Document clearly
 
-Every day is documented in my repo:  
-👉 **https://github.com/JohnSunny21/AIEngineerJourney**
+I value **depth over shortcuts** and **real systems over tutorials**.
 
 ---
 
-## 📘 What I'm Doing Right Now
-- 📅 Currently on: **Day 2 — Java Collections (Deep Dive)**
-- 🔥 Learning **HashMap internals, hashing, treeification, memory layout**
-- 🛠️ Building a **Student Management System (Java)**
-- 🧠 Practicing **system-level thinking**
-- ⌨️ Daily typing, coding, problem-solving discipline
+## 🛠️ Core Technical Strengths
 
----
+### Backend & Systems
+- Java (Collections internals, concurrency, memory behavior)
+- Spring Boot (Security, JWT, Refresh Tokens, Filters, Interceptors)
+- REST API design (validation, error handling, versioning)
+- Authentication & Authorization (roles, authorities, DB-backed identity)
+- Rate limiting & production hardening
+- Clean architecture & layering
 
-## 🧠 Skills & Technologies
-
-### 💻 Languages
-- Java  
-- Python  
-- JavaScript  
-- SQL  
-
-### ⚙️ Backend & Frameworks
-- Spring Boot  
-- REST API development  
+### Databases
+- SQL & relational modeling
 - JPA / Hibernate
+- Indexing & performance considerations
+- Transaction boundaries
 
-### 📦 Tools & Dev Practices
-- Git & GitHub  
-- IntelliJ IDEA  
-- Maven / Gradle  
-- Clean Architecture  
-- Unit Testing (JUnit/Mockito) *(upcoming)*  
-
-### 🤖 AI & Data (Current Track)
-- Python for AI  
-- NumPy, Pandas *(upcoming)*  
-- Machine Learning *(upcoming)*  
+### AI & Data (Growing Focus)
+- Python fundamentals
+- Data processing mindset
+- Preparing for ML model integration into backend services
 
 ---
 
-## 🏗️ Featured Project  
-### 📌 **AI Engineer Journey — Daily Log & Projects**  
-A 6-month structured transformation plan.  
-Each day includes deep explanations, hands-on coding, and system-level understanding.
+## 🏗️ Featured Project
 
-> It’s not a tutorial repo.  
-> It’s a **journey of mastery**.
+### 🔐 Intelligent Rate Limiter & Secure Backend Systems
+A production-style backend project covering:
 
-🔗 Repo: https://github.com/JohnSunny21/AIEngineerJourney
+- Token-based rate limiting
+- JWT authentication with refresh token rotation
+- Role & authority-based authorization
+- Database-backed identity
+- Production hardening (CORS, CSRF awareness, security headers)
+- System design trade-offs
+
+👉 **Repository:**  
+https://github.com/JohnSunny21/AIEngineerJourney
+
+> This is not a tutorial repo.  
+> It’s a **daily engineering log with real systems thinking**.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=JohnSunny21&show_icons=true&theme=tokyonight" />
-<img height="160" src="https://streak-stats.demolab.com?user=JohnSunny21&theme=tokyonight&cacheBust=1" />
+<img height="160" src="https://streak-stats.demolab.com?user=JohnSunny21&theme=tokyonight" />
+
 </div>
-
-<!-- <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JohnSunny21&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
-<img height="160" src="https://streak-stats.demolab.com/?user=JohnSunny21&theme=tokyonight" />
-
-</div> -->
 
 ---
 
-## 🧭 My 6-Month Roadmap (High-Level)
-
-### 🟦 Phase 1 — Core Engineering  
-- Java, OOP, Collections  
-- Spring Boot basics  
-- Python fundamentals  
-
-### 🟩 Phase 2 — Intermediate Backend  
-- REST APIs  
-- SQL + JPA  
-- Testing (JUnit/Mockito)  
-
-### 🟧 Phase 3 — AI Engineering  
-- Python for ML  
-- Pandas, NumPy, Matplotlib  
-- ML models  
-
-### 🟥 Phase 4 — Portfolio Projects  
-- Backend API project  
-- AI-powered service  
-- Full integration project  
+## 🎯 What I’m Focused On Right Now
+- Advanced backend system design
+- Security-heavy architectures
+- Database performance & scalability
+- AI integration into backend services
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: **https://github.com/JohnSunny21**  
-- Email: **ballasunnyjohn@gmail.com**
+- GitHub: https://github.com/JohnSunny21
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sunnyjohnballa/)
+- Email: [Email](sunnyjohnballa@gmail.com_)
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my journey interesting, consider starring my repositories!  
-It helps others discover my work & keeps me motivated.
+⭐ If you find my work interesting, feel free to explore my repositories.
 
 </div>
